@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\bin\Debug\netcoreapp2.1\Catapult attack 2.deps.json
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\bin\Debug\netcoreapp2.1\Catapult attack 2.runtimeconfig.json
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\bin\Debug\netcoreapp2.1\Catapult attack 2.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\bin\Debug\netcoreapp2.1\Catapult attack 2.dll
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\bin\Debug\netcoreapp2.1\Catapult attack 2.pdb
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\Catapult attack 2.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\Catapult attack 2.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\Catapult attack 2.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\Catapult attack 2.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\Catapult attack 2.dll
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\Catapult attack 2.pdb

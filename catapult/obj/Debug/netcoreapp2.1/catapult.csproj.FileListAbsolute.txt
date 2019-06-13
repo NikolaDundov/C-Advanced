@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\bin\Debug\netcoreapp2.1\catapult.deps.json
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\bin\Debug\netcoreapp2.1\catapult.runtimeconfig.json
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\bin\Debug\netcoreapp2.1\catapult.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\bin\Debug\netcoreapp2.1\catapult.dll
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\bin\Debug\netcoreapp2.1\catapult.pdb
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\catapult.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\catapult.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\catapult.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\catapult.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\catapult.dll
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\catapult\obj\Debug\netcoreapp2.1\catapult.pdb
