@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\Club Party\bin\Debug\netcoreapp2.1\Club Party.deps.json
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\Club Party\bin\Debug\netcoreapp2.1\Club Party.runtimeconfig.json
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\Club Party\bin\Debug\netcoreapp2.1\Club Party.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\Club Party\bin\Debug\netcoreapp2.1\Club Party.dll
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\Club Party\bin\Debug\netcoreapp2.1\Club Party.pdb
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\Club Party\obj\Debug\netcoreapp2.1\Club Party.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\Club Party\obj\Debug\netcoreapp2.1\Club Party.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\Club Party\obj\Debug\netcoreapp2.1\Club Party.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\Club Party\obj\Debug\netcoreapp2.1\Club Party.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\Club Party\obj\Debug\netcoreapp2.1\Club Party.dll
+D:\SoftUni\C# Advanced\Exam\Exam Prepraration\Club Party\obj\Debug\netcoreapp2.1\Club Party.pdb
